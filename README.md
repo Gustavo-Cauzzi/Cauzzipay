@@ -1,5 +1,10 @@
 # Cauzzipay
 
+A JSON API for making transactions between user accounts.
+Made during the 4th edition of Rocketseat's NLW in the Elixir course
+
+Visit ./lib/cauzzipay_web/router.ex to see routes
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
